@@ -1,0 +1,17 @@
+{
+  "name": "5.-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.0.6",
+    "nodemon": "^3.0.2",
+    "uuid": "^9.0.1"
+  }
+}
